@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryrahulraja",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0481780-341f-4a8d-8e84-e373f2a18ac4",
+		"tenantId": "5d4b95df-2345-4671-9be2-19b7202a052e"
+	}
+}
